@@ -1,8 +1,10 @@
 <html>
   <head>
-  <title>Hobby Snobby</title>
+    <title>Hobby Snobby</title>
   </head>
+  
   <body>
-  Welcome to Puzzlemania
+  <h1>Welcome to Puzzlemania</h1>
+  <p>Your ONLY resource for all things puzzle related</p>
   </body>
 </html>
